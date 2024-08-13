@@ -30,11 +30,11 @@ public class Typedecartealimentation {
         // List of questions to ask
         String[] questions = {
 
-                "Quel type de carte est nécessaire pour alimenter ma carte via D17 ?",
+               // "Quel type de carte est nécessaire pour alimenter ma carte via D17 ?",
                 "Pouvez-vous me préciser quel type de carte peut être utilisé pour alimenter ma carte sur D17 ?",
-                "Avec quel type de carte puis-je recharger ma carte sur D17 ?",
-                "Pouvez-vous m'indiquer quel type de carte je dois utiliser pour alimenter ma carte sur D17 ?",
-                "Quel est le type de carte accepté pour le rechargement de ma carte sur D17, et y a-t-il des spécifications à connaître ?",
+                //"Avec quel type de carte puis-je recharger ma carte sur D17 ?",
+                //"Pouvez-vous m'indiquer quel type de carte je dois utiliser pour alimenter ma carte sur D17 ?",
+                //"Quel est le type de carte accepté pour le rechargement de ma carte sur D17, et y a-t-il des spécifications à connaître ?",
 
 
 

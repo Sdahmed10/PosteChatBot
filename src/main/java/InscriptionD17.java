@@ -25,6 +25,7 @@ public class InscriptionD17 {
         // Locate and click on the 'Utilisation D17' option
         WebElement utilisation = driver.findElement(By.xpath("//p[normalize-space()='Utilisation D17']"));
         utilisation.click();
+        Thread.sleep(3000);
 
         // List of questions to ask
         String[] questions = {

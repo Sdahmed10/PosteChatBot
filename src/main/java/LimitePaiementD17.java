@@ -31,10 +31,10 @@ public class LimitePaiementD17 {
         String[] questions = {
 
                 "Y a-t-il une limite pour le paiement commerçant ?",
-                "Pourriez-vous me dire s'il existe une limite pour les paiements commerçants ?",
-                "Est-ce qu'il y a une limite pour payer chez les commerçants ?",
-                "Pouvez-vous me confirmer s'il y a une limite pour le paiement chez les commerçants ?",
-                "Quelle est la limite pour les paiements commerçants, s'il y en a une ?",
+                //"Pourriez-vous me dire s'il existe une limite pour les paiements commerçants ?",
+                //"Est-ce qu'il y a une limite pour payer chez les commerçants ?",
+                //"Pouvez-vous me confirmer s'il y a une limite pour le paiement chez les commerçants ?",
+                //"Quelle est la limite pour les paiements commerçants, s'il y en a une ?",
 
 
 

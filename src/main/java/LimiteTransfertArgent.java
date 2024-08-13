@@ -34,7 +34,7 @@ public class LimiteTransfertArgent {
                 "Existe-t-il une limite pour les transferts d’argent vers une autre carte ?",
                 "Il y a une limite pour envoyer de l’argent à une autre carte ?",
                 "Pouvez-vous me dire s’il y a une limite de montant pour transférer de l’argent à une autre carte ?",
-                "Quelle est la limite de montant pour les transferts d’argent vers une autre carte, et y a-t-il des conditions particulières à respecter ?",
+                //"Quelle est la limite de montant pour les transferts d’argent vers une autre carte, et y a-t-il des conditions particulières à respecter ?",
 
 
 

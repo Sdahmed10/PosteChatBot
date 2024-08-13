@@ -30,12 +30,12 @@ public class Typedemandataenvoyer{
 
         // List of questions to ask
         String[] questions = {
-                "Quel sont les types de mandat qu’on peut envoyer?",
-                "Quels genres de mandats peut-on envoyer à quelqu'un ?",
-                "Quels types de mandats sont disponibles pour l'envoi d'argent ?",
-                "Quelles sont les options de mandats que l'on peut expédier ?",
+                //"Quel sont les types de mandat qu’on peut envoyer?",
+                //"Quels genres de mandats peut-on envoyer à quelqu'un ?",
+                //"Quels types de mandats sont disponibles pour l'envoi d'argent ?",
+                //"Quelles sont les options de mandats que l'on peut expédier ?",
                 "Quels types de mandats peuvent être utilisés pour transférer de l'argent ?",
-                "Quels mandats sont disponibles pour envoyer de l'argent à distance ?",
+                //"Quels mandats sont disponibles pour envoyer de l'argent à distance ?",
 
         };
 

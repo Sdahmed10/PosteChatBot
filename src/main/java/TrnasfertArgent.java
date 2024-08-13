@@ -31,10 +31,10 @@ public class TrnasfertArgent {
         String[] questions = {
 
                 "Peut-on transférer de l’argent à une autre carte déjà inscrite à D17 ?",
-                "Est-il possible de transférer des fonds vers une autre carte qui est déjà inscrite sur D17 ?",
-                "On peut envoyer de l'argent à une autre carte qui est déjà sur D17 ?",
+                //"Est-il possible de transférer des fonds vers une autre carte qui est déjà inscrite sur D17 ?",
+                //"On peut envoyer de l'argent à une autre carte qui est déjà sur D17 ?",
                 "Pouvez-vous me dire si je peux effectuer un transfert d'argent vers une autre carte inscrite sur D17 ?",
-                "Quelle est la procédure pour transférer de l’argent à une autre carte déjà enregistrée sur D17 et y a-t-il des conditions spécifiques à respecter ?",
+                //"Quelle est la procédure pour transférer de l’argent à une autre carte déjà enregistrée sur D17 et y a-t-il des conditions spécifiques à respecter ?",
 
 
 

@@ -30,11 +30,11 @@ public class RenouvellementD17 {
         // List of questions to ask
         String[] questions = {
 
-                "Peut-on renouveler la carte via D17 ?",
-                "Est-il possible de renouveler la carte en utilisant D17 ?",
+                //"Peut-on renouveler la carte via D17 ?",
+                //"Est-il possible de renouveler la carte en utilisant D17 ?",
                 "On peut renouveler la carte avec D17, non ?",
-                "Pourriez-vous me confirmer si D17 permet de renouveler la carte ?",
-                "D17 offre-t-il la possibilité de renouveler la carte, et si oui, comment cela fonctionne-t-il ?",
+                //"Pourriez-vous me confirmer si D17 permet de renouveler la carte ?",
+                //"D17 offre-t-il la possibilité de renouveler la carte, et si oui, comment cela fonctionne-t-il ?",
 
         };
 

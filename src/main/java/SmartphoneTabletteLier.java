@@ -30,11 +30,11 @@ public class SmartphoneTabletteLier {
         // List of questions to ask
         String[] questions = {
 
-                "Peut-on connecter plusieurs appareils électroniques D17 à une seule carte de paiement ?",
-                "Est-il envisageable de lier plusieurs D17 à une unique carte bancaire ?",
-                "Combien de D17 peuvent être associés à une seule carte de crédit ?",
+                //"Peut-on connecter plusieurs appareils électroniques D17 à une seule carte de paiement ?",
+                //"Est-il envisageable de lier plusieurs D17 à une unique carte bancaire ?",
+                //"Combien de D17 peuvent être associés à une seule carte de crédit ?",
                 "Existe-t-il une limite pour lier des D17 multiples à une carte de paiement ?",
-                "Peut-on utiliser une même carte bancaire pour plusieurs D17 simultanément ?",
+                //"Peut-on utiliser une même carte bancaire pour plusieurs D17 simultanément ?",
         };
 
         for (int i = 0; i < questions.length; i++) {

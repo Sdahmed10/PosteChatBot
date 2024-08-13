@@ -30,11 +30,11 @@ public class BloquageD17 {
         // List of questions to ask
         String[] questions = {
 
-                "Peut-on bloquer la carte via D17 ?",
-                "Est-il possible de bloquer la carte en utilisant D17 ?",
+                //"Peut-on bloquer la carte via D17 ?",
+                //"Est-il possible de bloquer la carte en utilisant D17 ?",
                 "On peut bloquer la carte avec D17, non ?",
-                "Pourriez-vous me confirmer si D17 permet de bloquer la carte ?",
-                "D17 offre-t-il la possibilité de bloquer la carte, et si oui, comment cela fonctionne-t-il ?",
+                //"Pourriez-vous me confirmer si D17 permet de bloquer la carte ?",
+                //"D17 offre-t-il la possibilité de bloquer la carte, et si oui, comment cela fonctionne-t-il ?",
 
         };
 

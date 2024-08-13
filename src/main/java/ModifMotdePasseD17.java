@@ -30,11 +30,11 @@ public class ModifMotdePasseD17 {
         // List of questions to ask
         String[] questions = {
 
-                "Puis-je modifier le mot de passe de D17 ?",
-                "Est-il possible de modifier le mot de passe de D17 ?",
+                //"Puis-je modifier le mot de passe de D17 ?",
+                //"Est-il possible de modifier le mot de passe de D17 ?",
                 "On peut changer le mot de passe de D17, non ?",
                 "Pourriez-vous me dire si je peux modifier le mot de passe de D17 ?",
-                "D17 permet-il de modifier le mot de passe, et si oui, comment cela fonctionne-t-il ?",
+                //"D17 permet-il de modifier le mot de passe, et si oui, comment cela fonctionne-t-il ?",
 
         };
 

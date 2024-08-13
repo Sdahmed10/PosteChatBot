@@ -30,11 +30,11 @@ public class OublieMotdePasseD17 {
         // List of questions to ask
         String[] questions = {
 
-                "J'ai oublié le mot de passe de l'application D17. Que dois-je faire ?",
+                //"J'ai oublié le mot de passe de l'application D17. Que dois-je faire ?",
                 "Pourriez-vous m'aider ? J'ai oublié le mot de passe de l'application D17.",
                 "J'ai oublié mon mot de passe pour D17, vous pouvez m'aider ?",
                 "Pouvez-vous me dire comment récupérer ou réinitialiser le mot de passe de l'application D17 que j'ai oublié ?",
-                "Que faire si j'ai oublié le mot de passe de l'application D17 ? Y a-t-il une procédure de récupération ?",
+                //"Que faire si j'ai oublié le mot de passe de l'application D17 ? Y a-t-il une procédure de récupération ?",
 
         };
 

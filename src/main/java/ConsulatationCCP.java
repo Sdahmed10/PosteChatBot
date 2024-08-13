@@ -26,6 +26,8 @@ public class ConsulatationCCP {
         WebElement utilisation = driver.findElement(By.xpath("//p[normalize-space()='Utilisation D17']"));
         utilisation.click();
 
+        Thread.sleep(2000);
+
         // List of questions to ask
         String[] questions = {
 

@@ -34,7 +34,7 @@ public class TransfertArgentCarteNonInscrite {
                 "Est-il possible de transférer des fonds vers une carte qui n’est pas enregistrée sur D17 ?",
                 "On peut envoyer de l'argent à une carte qui n'est pas sur D17 ?",
                 "Pouvez-vous me confirmer si je peux effectuer un transfert d’argent vers une carte qui n’est pas inscrite sur D17 ?",
-                "Quelle est la procédure pour transférer de l’argent à une carte qui n’est pas inscrite sur D17, et y a-t-il des restrictions ou conditions particulières à connaître ?",
+                //"Quelle est la procédure pour transférer de l’argent à une carte qui n’est pas inscrite sur D17, et y a-t-il des restrictions ou conditions particulières à connaître ?",
 
 
 

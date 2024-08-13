@@ -31,11 +31,11 @@ public class Commentenvoyerdesmandats{
         // List of questions to ask
         String[] questions = {
                 "Comment envoyer des mandats",
-                "Quelles sont les étapes pour expédier un mandat à quelqu'un ?",
+                //"Quelles sont les étapes pour expédier un mandat à quelqu'un ?",
                 "Comment procéder pour envoyer un mandat, étape par étape ?",
                 "Quelles démarches faut-il suivre pour envoyer un mandat ?",
                 "Quels sont les processus pour envoyer un mandat efficacement ?",
-                "Comment envoyer un mandat en quelques étapes simples ?",
+                //"Comment envoyer un mandat en quelques étapes simples ?",
 
         };
 

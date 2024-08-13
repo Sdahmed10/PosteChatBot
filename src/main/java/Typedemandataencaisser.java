@@ -32,11 +32,11 @@ public class Typedemandataencaisser {
         String[] questions = {
 
                 "Quel sont les types de mandat qu’on peut encaisser",
-                "Quels types de mandats peuvent être encaissés à la banque ?",
-                "Quelles sortes de mandats sont admissibles pour l'encaissement ?",
-                "Quels genres de mandats peuvent être déposés sur un compte bancaire ?",
-                "Quels types de mandats sont acceptés pour l'encaissement ?",
-                "Quels types de mandats postaux sont encaissables ?",
+                //"Quels types de mandats peuvent être encaissés à la banque ?",
+                //"Quelles sortes de mandats sont admissibles pour l'encaissement ?",
+                //"Quels genres de mandats peuvent être déposés sur un compte bancaire ?",
+                //"Quels types de mandats sont acceptés pour l'encaissement ?",
+                //"Quels types de mandats postaux sont encaissables ?",
 
         };
 

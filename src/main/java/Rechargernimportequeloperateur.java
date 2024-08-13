@@ -30,10 +30,10 @@ public class Rechargernimportequeloperateur {
         // List of questions to ask
         String[] questions = {
 
-                "Peut-on recharger n'importe quel opérateur téléphonique ?",
-                "Est-il possible de recharger n'importe quel opérateur téléphonique ?",
-                "Y a-t-il un moyen de recharger n'importe quel opérateur téléphonique ?",
-                "Comment peut-on recharger n'importe quel opérateur téléphonique ?",
+                //"Peut-on recharger n'importe quel opérateur téléphonique ?",
+                //"Est-il possible de recharger n'importe quel opérateur téléphonique ?",
+                //"Y a-t-il un moyen de recharger n'importe quel opérateur téléphonique ?",
+                //"Comment peut-on recharger n'importe quel opérateur téléphonique ?",
                 "Existe-t-il une méthode pour recharger n'importe quel opérateur téléphonique ?",
 
         };
